@@ -95,12 +95,13 @@ SBomber::~SBomber()
 void SBomber::MoveObjects()
 {
 	FileLoggerSingleton::getInstance().WriteToLog(string(__FUNCTION__) + " was invoked");
-
+	LogVisitor visitor;
     for (size_t i = 0; i < vecDynamicObj.size(); i++)
     {
         if (vecDynamicObj[i] != nullptr)
         {
             vecDynamicObj[i]->Move(deltaTime);
+			vecDynamicObj[i]->Accept(visitor);
         }
     }
 };

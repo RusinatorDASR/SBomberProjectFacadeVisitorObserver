@@ -35,7 +35,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v141</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -143,6 +143,7 @@
     <ClCompile Include="Ground.cpp" />
     <ClCompile Include="House.cpp" />
     <ClCompile Include="LevelGUI.cpp" />
+    <ClCompile Include="LogVisitor.cpp" />
     <ClCompile Include="MyTools.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">stdcpp17</LanguageStandard>
     </ClCompile>
@@ -152,6 +153,7 @@
     <ClCompile Include="ScreenSingleton.cpp" />
     <ClCompile Include="FileLoggerSingleton.cpp" />
     <ClCompile Include="Tank.cpp" />
+    <ClCompile Include="Visitor.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bomb.h" />
@@ -160,6 +162,7 @@
     <ClInclude Include="Ground.h" />
     <ClInclude Include="DestroyableGroundObject.h" />
     <ClInclude Include="FileLoggerSingleton.h" />
+    <ClInclude Include="LogVisitor.h" />
     <ClInclude Include="ScreenSingleton.h" />
     <ClInclude Include="House.h" />
     <ClInclude Include="LevelGUI.h" />
@@ -167,6 +170,7 @@
     <ClInclude Include="Plane.h" />
     <ClInclude Include="SBomber.h" />
     <ClInclude Include="Tank.h" />
+    <ClInclude Include="Visitor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,6 +1,9 @@
 #pragma once
 
+
 #include "DynamicObject.h"
+#include "DestroyableGroundObject.h"
+using namespace std;
 
 class Bomb : public DynamicObject
 {
@@ -10,7 +13,12 @@ public:
 
 	void Draw() const override;
 
+	void AddObserver(const vector<DestroyableGroundObject*>& findDestroyableObj);
+
+	DestroyableGroundObject* CheckDestroyableObjects();
+
 private:
 
+	vector<DestroyableGroundObject*> observers;
 };
 

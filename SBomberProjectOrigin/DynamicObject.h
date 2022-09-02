@@ -1,8 +1,10 @@
 #pragma once
 
 #include <stdint.h>
+#include <vector>
 
 #include "GameObject.h"
+
 
 class DynamicObject : public GameObject 
 {

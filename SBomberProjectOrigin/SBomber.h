@@ -7,7 +7,7 @@
 #include "Bomb.h"
 #include "Ground.h"
 #include "Tank.h"
-
+using namespace std;
 class SBomber
 {
 public:

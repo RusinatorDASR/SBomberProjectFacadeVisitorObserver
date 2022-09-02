@@ -24,6 +24,7 @@
     <ProjectGuid>{0DE5CE1C-BB67-486B-B6C7-6724D4E3323D}</ProjectGuid>
     <RootNamespace>SBomberProject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>SBomberProjectObserver</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -149,6 +150,8 @@
     <ClCompile Include="Plane.cpp" />
     <ClCompile Include="SBomber.cpp" />
     <ClCompile Include="SBomberProject.cpp" />
+    <ClCompile Include="ScreenSingleton.cpp" />
+    <ClCompile Include="FileLoggerSingleton.cpp" />
     <ClCompile Include="Tank.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -157,6 +160,8 @@
     <ClInclude Include="DynamicObject.h" />
     <ClInclude Include="Ground.h" />
     <ClInclude Include="DestroyableGroundObject.h" />
+    <ClInclude Include="FileLoggerSingleton.h" />
+    <ClInclude Include="ScreenSingleton.h" />
     <ClInclude Include="House.h" />
     <ClInclude Include="LevelGUI.h" />
     <ClInclude Include="MyTools.h" />

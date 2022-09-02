@@ -1,1069 +1,183 @@
-Thu Sep  1 14:43:44 2022 - SBomber::SBomber was invoked
-Thu Sep  1 14:43:44 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:44 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:44 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:44 2022 - LogVisitor::log was invoked. Plane coordinate X =  5
-Thu Sep  1 14:43:44 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10
-Thu Sep  1 14:43:44 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:44 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:44 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:44 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:44 2022 - SBomber::TimeFinish deltaTime = 94
-Thu Sep  1 14:43:44 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  5.376
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.0376
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 94
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  5.752
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.0752
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  6
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  6.252
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.1252
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 78
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  6.564
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.1564
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  6.812
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.1812
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 78
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  7.124
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.2124
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  7.376
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.2376
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  7.624
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.2624
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  7.876
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.2876
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 78
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  8.188
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.3188
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  8.44
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.344
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  8.688
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.3688
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 78
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:45 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  9
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.4
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb coordinate X =  12.7348
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.5248
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate X =  9.252
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.4252
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb coordinate X =  12.7726
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.6508
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:45 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:45 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:45 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:45 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  9.5
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.45
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  12.8098
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.7748
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  9.752
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.4752
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  12.8476
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.9008
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 78
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  10.064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.5064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  12.8944
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.0568
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  10.312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.5312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  12.9316
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.1808
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 47
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  10.5
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.55
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  12.9598
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.2748
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  10.752
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.5752
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  12.9976
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.4008
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  11
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.6
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.0348
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.5248
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  14.7892
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.6992
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  11.252
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.6252
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.0726
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.6508
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  14.827
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.8252
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.0378
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.726
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 78
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  11.564
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.6564
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.1194
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.8068
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  14.8738
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.9812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.0846
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.882
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.2988
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.7812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  11.812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.6812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.1566
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.9308
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  14.911
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.1052
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.1218
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.006
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.336
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.9052
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.6012
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.7804
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  12.064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.7064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.1944
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.0568
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  14.9488
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.2312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.1596
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.132
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.3738
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.0312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.639
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.9064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.8498
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.8072
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  12.312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.7312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.2316
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.1808
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  14.986
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.3552
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.1968
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.256
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.411
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.1552
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.6762
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.0304
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.887
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.9312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.1012
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.8304
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  12.564
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.7564
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.2694
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.3068
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.0238
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.4812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.2346
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.382
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.4488
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.2812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.714
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.1564
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.9248
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.0572
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.139
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.9564
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.3498
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.8572
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  12.812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.7812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.3066
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.4308
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.061
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.6052
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.2718
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.506
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.486
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.4052
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.7512
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.2804
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.962
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.1812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.1762
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.0804
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.387
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.9812
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.6012
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.8804
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DropBomb was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  13.064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.8064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.3444
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.5568
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.0988
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.7312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.3096
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.632
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.5238
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.5312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.789
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.4064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.9998
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.3072
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.214
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.2064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.4248
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.1072
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.639
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.0064
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.8498
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  12.9072
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:46 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate X =  13.312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.8312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.3816
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.6808
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.136
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.8552
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.3468
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.756
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.561
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.6552
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.8262
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.5304
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.037
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.4312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.2512
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.3304
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.462
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.2312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.6762
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.1304
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.887
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.0312
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:46 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:46 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:46 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:46 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:47 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate X =  13.564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.8564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.4194
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.8068
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.1738
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.9812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.3846
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.882
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.5988
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.7812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.864
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.6564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.0748
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.5572
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.289
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.4564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.4998
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.3572
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.714
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.2564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.9248
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.1572
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:47 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:47 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate X =  13.812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.8812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.4566
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.9308
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.211
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.1052
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.4218
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.006
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.636
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.9052
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.9012
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.7804
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.112
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.6812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.3262
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.5804
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.537
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.4812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.7512
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.3804
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.962
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.2812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:47 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:47 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate X =  14.064
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.9064
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.4944
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  15.0568
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.2488
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.2312
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.4596
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.132
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.6738
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.0312
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.939
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.9064
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.1498
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.8072
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.364
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.7064
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.5748
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.6072
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.789
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.5064
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.9998
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.4072
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:47 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:47 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate X =  14.312
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.9312
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.5316
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  15.1808
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.286
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.3552
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.4968
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.256
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.711
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.1552
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.9762
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.0304
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.187
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.9312
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.4012
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.8304
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.612
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.7312
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.8262
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.6304
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  17.037
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.5312
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:47 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::ProcessKBHit was invoked. key = 98
-Thu Sep  1 14:43:47 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate X =  14.564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.9564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.5694
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  15.3068
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.3238
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.4812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.5346
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.382
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.7488
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.2812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.014
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.1564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.2248
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.0572
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.439
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.9564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.6498
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.8572
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.864
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.7564
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  17.0748
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.6572
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::TimeFinish deltaTime = 62
-Thu Sep  1 14:43:47 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::DrawFrame was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::MoveObjects was invoked
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate X =  14.812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.9812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction X =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Plane speed X =  4
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  13.6066
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  15.4308
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.361
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.6052
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.5718
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.506
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  15.786
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.4052
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.0512
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.2804
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.262
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.1812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.4762
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  14.0804
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.687
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.9812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  16.9012
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.8804
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate X =  17.112
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb coordinate Y =  13.7812
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction X =  0.3
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb direction Y =  1
-Thu Sep  1 14:43:47 2022 - LogVisitor::log was invoked. Bomb speed X =  2
-Thu Sep  1 14:43:47 2022 - SBomber::CheckObjects was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::TimeFinish deltaTime = 63
-Thu Sep  1 14:43:47 2022 - SBomber::TimeStart was invoked
-Thu Sep  1 14:43:47 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::SBomber was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate X =  5
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:21 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate X =  5.312
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.0312
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:21 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate X =  5.624
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.0624
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:21 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeFinish deltaTime = 63
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate X =  5.876
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.0876
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:21 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate X =  6.188
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.1188
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:21 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate X =  6.5
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.15
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:21 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate X =  6.812
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.1812
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:21 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeFinish deltaTime = 62
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate X =  7.06
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.206
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:21 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:21 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:21 2022 - SBomber::TimeFinish deltaTime = 63
+Fri Sep  2 12:04:21 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  7.312
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.2312
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  7.624
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.2624
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 47
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  7.812
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.2812
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  8.124
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.3124
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 63
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  8.376
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.3376
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 62
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  8.624
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.3624
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  8.936
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.3936
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 63
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  9.188
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.4188
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  9.5
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.45
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 78
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::MoveObjects was invoked
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate X =  9.812
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane coordinate Y =  10.4812
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction X =  1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane direction Y =  0.1
+Fri Sep  2 12:04:22 2022 - LogVisitor::log was invoked. Plane speed X =  4
+Fri Sep  2 12:04:22 2022 - SBomber::CheckObjects was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::TimeFinish deltaTime = 62
+Fri Sep  2 12:04:22 2022 - SBomber::TimeStart was invoked
+Fri Sep  2 12:04:22 2022 - SBomber::DrawFrame was invoked

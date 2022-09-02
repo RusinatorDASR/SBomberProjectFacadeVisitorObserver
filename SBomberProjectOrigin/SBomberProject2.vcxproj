@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{859aac7f-0da9-4fe6-88d6-eae9d50cad24}</ProjectGuid>
+    <ProjectGuid>{0DE5CE1C-BB67-486B-B6C7-6724D4E3323D}</ProjectGuid>
     <RootNamespace>SBomberProject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>SBomberProjectVisitor</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -36,14 +35,14 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v141</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
@@ -144,17 +143,13 @@
     <ClCompile Include="Ground.cpp" />
     <ClCompile Include="House.cpp" />
     <ClCompile Include="LevelGUI.cpp" />
-    <ClCompile Include="LogVisitor.cpp" />
     <ClCompile Include="MyTools.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">stdcpp17</LanguageStandard>
     </ClCompile>
     <ClCompile Include="Plane.cpp" />
     <ClCompile Include="SBomber.cpp" />
     <ClCompile Include="SBomberProject.cpp" />
-    <ClCompile Include="ScreenSingleton.cpp" />
-    <ClCompile Include="FileLoggerSingleton.cpp" />
     <ClCompile Include="Tank.cpp" />
-    <ClCompile Include="Visitor.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bomb.h" />
@@ -162,16 +157,12 @@
     <ClInclude Include="DynamicObject.h" />
     <ClInclude Include="Ground.h" />
     <ClInclude Include="DestroyableGroundObject.h" />
-    <ClInclude Include="FileLoggerSingleton.h" />
-    <ClInclude Include="LogVisitor.h" />
-    <ClInclude Include="ScreenSingleton.h" />
     <ClInclude Include="House.h" />
     <ClInclude Include="LevelGUI.h" />
     <ClInclude Include="MyTools.h" />
     <ClInclude Include="Plane.h" />
     <ClInclude Include="SBomber.h" />
     <ClInclude Include="Tank.h" />
-    <ClInclude Include="Visitor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

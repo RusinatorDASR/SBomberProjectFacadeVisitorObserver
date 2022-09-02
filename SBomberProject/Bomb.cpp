@@ -13,6 +13,6 @@ void Bomb::Draw() const
     cout << "*";
 }
 
-void Bomb::Accept(Visitor& v) {
+void Bomb::Accept(const Visitor& v) {
 	v.log(this);
 }

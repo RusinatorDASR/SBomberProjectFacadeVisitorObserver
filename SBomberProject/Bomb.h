@@ -11,7 +11,7 @@ public:
 
 	void Draw() const override;
 
-	void Accept(Visitor& v) override;
+	void Accept(const Visitor& v) override;
 
 private:
 

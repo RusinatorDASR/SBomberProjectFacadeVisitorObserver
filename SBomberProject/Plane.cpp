@@ -19,6 +19,6 @@ void Plane::Draw() const
     cout << "////";
 }
 
-void Plane::Accept(Visitor& v) {
+void Plane::Accept(const Visitor& v) {
 	v.log(this);
 }

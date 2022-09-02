@@ -20,7 +20,7 @@ public:
 	virtual double GetDirectionX() const { return xDirction; }
 	virtual double GetDirectionY() const { return yDirection; }
 
-	virtual void Accept(Visitor& v) = 0;
+	virtual void Accept(const Visitor& v) = 0;
     
     virtual void Move(uint16_t time) { x += xDirction * speed * time * 0.001; y += yDirection * speed * time * 0.001; };
 

@@ -8,7 +8,7 @@ class Plane;
 class Visitor
 {
 public:
-	virtual void log(Plane* plane) = 0;
-	virtual void log(Bomb* bomb) = 0;
+	virtual void log(Plane* plane) const = 0;
+	virtual void log(Bomb* bomb) const = 0;
 };
 
